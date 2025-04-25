@@ -64,6 +64,6 @@ The dashboard provides clear insights into:
 ![](Dashboard.PNG)
 
 Author
-Mohammad – Data Analyst Intern
+Mohammad Anwar – Data Analyst 
 
 
