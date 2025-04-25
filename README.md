@@ -21,7 +21,7 @@ The dashboard provides clear insights into:
 
 - Interactive filtering by products and agents
 
-###Key Features
+### Key Features
 
 - Data model created and optimized in Power BI
 
@@ -33,7 +33,7 @@ The dashboard provides clear insights into:
 
 - Advanced visualizations: column charts, pie charts, map, and line charts
 
-###Tools Used
+### Tools Used
 - Power BI
 
 - Power Query
@@ -61,7 +61,7 @@ The dashboard provides clear insights into:
 
 ### Dashboard
 
-![Dashboard]([Dashboard%20Screenshots/Dashboard.PNG](https://github.com/Mohammed263/CRM-Opportunities-Sales-Dashboard/blob/main/Dashboard.PNG))
+![](Dashboard.PNG)
 
 Author
 Mohammad – Data Analyst Intern
